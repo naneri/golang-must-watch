@@ -8,6 +8,8 @@ Must watch videos about golang. Inspired by [bolshchikov / js-must-watch](https:
 1. [Go 2 Draft Specifications](https://www.youtube.com/watch?v=RIvL2ONhFBI) [1:06:59] - Rob Pike
 2. [Go Says WAT](https://www.youtube.com/watch?v=zPd0Cxzsslk) [40:16] - Jon Bodner
 3. [How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0) [46:17] - Kat Zien
+4. [Things in Go I Never Use](https://www.youtube.com/watch?v=5DVV36uqQ4E) [24:52] - Mat Ryer
+
 
 # 2016
 1. [The Design of the Go Assembler](https://www.youtube.com/watch?v=KINIAgRpkDA) [23:56] - Rob Pike
