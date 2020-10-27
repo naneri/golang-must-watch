@@ -1,6 +1,9 @@
 # golang-must-watch
 Must watch videos about golang. Inspired by [bolshchikov / js-must-watch](https://github.com/bolshchikov/js-must-watch)
 
+# 2019
+1. [Handling Go Errors](https://www.youtube.com/watch?v=4WIhhzTTd0Y)[31:54] - Marwan Sulaiman
+
 # 2018
 1. [Go 2 Draft Specifications](https://www.youtube.com/watch?v=RIvL2ONhFBI)[1:06:59] - Rob Pike
 
