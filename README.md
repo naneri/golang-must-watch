@@ -3,6 +3,7 @@ Must watch videos about golang. Inspired by [bolshchikov / js-must-watch](https:
 
 # 2019
 1. [Handling Go Errors](https://www.youtube.com/watch?v=4WIhhzTTd0Y) [31:54] - Marwan Sulaiman
+2. [Two Go Programs, Three Different Profiling Techniques](https://www.youtube.com/watch?v=nok0aYiGiYA) [42:59] - Dave Cheney
 
 # 2018
 1. [Go 2 Draft Specifications](https://www.youtube.com/watch?v=RIvL2ONhFBI) [1:06:59] - Rob Pike
