@@ -6,6 +6,7 @@ Must watch videos about golang. Inspired by [bolshchikov / js-must-watch](https:
 
 # 2018
 1. [Go 2 Draft Specifications](https://www.youtube.com/watch?v=RIvL2ONhFBI)[1:06:59] - Rob Pike
+2. [Go Says WAT](https://www.youtube.com/watch?v=zPd0Cxzsslk)[40:16] - Jon Bodner
 
 # 2016
 1. [The Design of the Go Assembler](https://www.youtube.com/watch?v=KINIAgRpkDA)[23:56] - Rob Pike
