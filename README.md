@@ -21,3 +21,6 @@ Must watch videos about golang. Inspired by [bolshchikov / js-must-watch](https:
 # 2015
 1. [7 common mistakes in Go and when to avoid them](https://www.youtube.com/watch?v=29LLRKIL_TI&t=1s) [27:57] - Steve Francia
 2. [Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM) [23:11] - Rob Pike
+
+# 2014
+1. [I came for the easy concurrency I stayed for the easy composition](https://www.youtube.com/watch?v=woCg2zaIVzQ) [14:33] - John Graham-Cumming
