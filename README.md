@@ -11,7 +11,13 @@ Must watch videos about golang. Inspired by [bolshchikov / js-must-watch](https:
 2. [Go Says WAT](https://www.youtube.com/watch?v=zPd0Cxzsslk) [40:16] - Jon Bodner
 3. [How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0) [46:17] - Kat Zien
 4. [Things in Go I Never Use](https://www.youtube.com/watch?v=5DVV36uqQ4E) [24:52] - Mat Ryer
+5. [Go Proverbs](https://www.youtube.com/watch?v=PAAkCSZUG1c) [22:27] - Rob Pike
+6. [Journey from OO language to Golang](https://www.youtube.com/watch?v=1ZjvhGfpwJ8) [40:12] - Sergey Kibish
 
 # 2016
 1. [The Design of the Go Assembler](https://www.youtube.com/watch?v=KINIAgRpkDA) [23:56] - Rob Pike
 2. [Building a container from scratch in Go](https://www.youtube.com/watch?v=Utf-A4rODH8) [19:03] - Liz Rice (Microscaling Systems)
+
+# 2015
+1. [7 common mistakes in Go and when to avoid them](https://www.youtube.com/watch?v=29LLRKIL_TI&t=1s) [27:57] - Steve Francia
+2. [Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM) [23:11] - Rob Pike
