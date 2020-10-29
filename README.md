@@ -13,6 +13,7 @@ Must watch videos about golang. Inspired by [bolshchikov / js-must-watch](https:
 4. [Things in Go I Never Use](https://www.youtube.com/watch?v=5DVV36uqQ4E) [24:52] - Mat Ryer
 5. [Go Proverbs](https://www.youtube.com/watch?v=PAAkCSZUG1c) [22:27] - Rob Pike
 6. [Journey from OO language to Golang](https://www.youtube.com/watch?v=1ZjvhGfpwJ8) [40:12] - Sergey Kibish
+7. [Concurrency Patterns In Go](https://www.youtube.com/watch?v=YEKjSzIwAdA) [31:19] - Arne Claus
 
 # 2016
 1. [The Design of the Go Assembler](https://www.youtube.com/watch?v=KINIAgRpkDA) [23:56] - Rob Pike
