@@ -11,9 +11,8 @@ Must watch videos about golang. Inspired by [bolshchikov / js-must-watch](https:
 2. [Go Says WAT](https://www.youtube.com/watch?v=zPd0Cxzsslk) [40:16] - Jon Bodner
 3. [How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0) [46:17] - Kat Zien
 4. [Things in Go I Never Use](https://www.youtube.com/watch?v=5DVV36uqQ4E) [24:52] - Mat Ryer
-5. [Go Proverbs](https://www.youtube.com/watch?v=PAAkCSZUG1c) [22:27] - Rob Pike
-6. [Journey from OO language to Golang](https://www.youtube.com/watch?v=1ZjvhGfpwJ8) [40:12] - Sergey Kibish
-7. [Concurrency Patterns In Go](https://www.youtube.com/watch?v=YEKjSzIwAdA) [31:19] - Arne Claus
+5. [Journey from OO language to Golang](https://www.youtube.com/watch?v=1ZjvhGfpwJ8) [40:12] - Sergey Kibish
+6. [Concurrency Patterns In Go](https://www.youtube.com/watch?v=YEKjSzIwAdA) [31:19] - Arne Claus
 
 # 2017
 1. [Understanding Go Interfaces](https://www.youtube.com/watch?v=F4wUrj6pmSI) [49:48] - Francesc Campoy
@@ -27,6 +26,7 @@ Must watch videos about golang. Inspired by [bolshchikov / js-must-watch](https:
 1. [7 common mistakes in Go and when to avoid them](https://www.youtube.com/watch?v=29LLRKIL_TI&t=1s) [27:57] - Steve Francia
 2. [Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM) [23:11] - Rob Pike
 3. [Embrace the Interface](https://www.youtube.com/watch?v=xyDkyFjzFVc) [24:18] - Tomas Senart
+4. [Go Proverbs](https://www.youtube.com/watch?v=PAAkCSZUG1c) [22:27] - Rob Pike
 
 # 2014
 1. [I came for the easy concurrency I stayed for the easy composition](https://www.youtube.com/watch?v=woCg2zaIVzQ) [14:33] - John Graham-Cumming
