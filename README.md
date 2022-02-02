@@ -21,6 +21,7 @@ Must watch videos about golang. Inspired by [bolshchikov / js-must-watch](https:
 1. [The Design of the Go Assembler](https://www.youtube.com/watch?v=KINIAgRpkDA) [23:56] - Rob Pike
 2. [Building a container from scratch in Go](https://www.youtube.com/watch?v=Utf-A4rODH8) [19:03] - Liz Rice (Microscaling Systems)
 3. [SOLID Go Design](https://www.youtube.com/watch?v=zzAdEt3xZ1M) [27:29] - Dave Cheney 
+4. [Visualizing Concurrency in Go](https://www.youtube.com/watch?v=KyuFeiG3Y60) [19:40] - Ivan Danyliuk
 
 # 2015
 1. [7 common mistakes in Go and when to avoid them](https://www.youtube.com/watch?v=29LLRKIL_TI&t=1s) [27:57] - Steve Francia
